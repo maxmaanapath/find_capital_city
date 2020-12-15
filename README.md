@@ -1,2 +1,2 @@
 # Ask-Capital-Program
-Test Program
+This is program for ask capital cities in the world.
