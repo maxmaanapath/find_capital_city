@@ -1,3 +1,4 @@
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
+China/Beijing
