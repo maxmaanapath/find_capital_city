@@ -15,7 +15,13 @@ def write_to_file(country_name, capital_name):
         file.write('\n')
         file.write(country_name + '/' + capital_name)
         file.close()
-        
+
 root = Tk()
 root.withdraw()
 world_capital = {}
+while True:
+    read_from_file()
+    simpledialog.askstring
+    query_country = ''
+    query_country = simpledialog.askstring('Country', 'Type the name of a country: ')
+    query_country = query_country.capitalize()
