@@ -15,6 +15,7 @@ def write_to_file(country_name, capital_name):
         file.write('\n')
         file.write(country_name + '/' + capital_name)
         file.close()
+        
 root = Tk()
 root.withdraw()
 world_capital = {}
