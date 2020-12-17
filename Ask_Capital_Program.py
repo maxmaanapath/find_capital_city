@@ -30,6 +30,7 @@ while True:
     if query_country in world_capital:
         result = world_capital[query_country]
         messagebox.showinfo('Answer','The capital city of ' + query_country + ' is ' + result + '!')
+        
     else:
         new_capital = simpledialog.askstring('Teach me',
                                              'I don\'t know the answer. Please teach me. What is the capital city of ' + query_country + '?:')
