@@ -9,3 +9,8 @@ def read_from_file():
             country = country.capitalize()
             capital = capital.capitalize()
             world_capital[country] = capital
+def write_to_file(country_name, capital_name):
+    with open('worldcapital.txt', 'a') as file:
+        file.write('\n')
+        file.write(country_name + '/' + capital_name)
+        file.close()
