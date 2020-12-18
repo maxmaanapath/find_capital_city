@@ -36,6 +36,5 @@ while True:
     answer = simpledialog.askstring('Continue', 'Do you want to try again? y/n: ')
     if answer == 'n':
         messagebox.showinfo('Thanks','Thank you for playing!')
-
         root.destroy()
         sys.exit()
