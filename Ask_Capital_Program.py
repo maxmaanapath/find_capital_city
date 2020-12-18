@@ -38,3 +38,5 @@ while True:
         new_capital = new_capital.capitalize()
         write_to_file(query_country, new_capital)
     answer = simpledialog.askstring('Continue', 'Do you want to try again? y/n: ')
+    if answer == 'n':
+        messagebox.showinfo('Thanks','Thank you for playing!')
