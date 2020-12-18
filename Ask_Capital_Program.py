@@ -19,7 +19,6 @@ def write_to_file(country_name, capital_name):
 root = Tk()
 root.withdraw()
 world_capital = {}
-
 while True:
     read_from_file()
     simpledialog.askstring
