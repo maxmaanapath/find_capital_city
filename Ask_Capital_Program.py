@@ -25,7 +25,6 @@ while True:
     query_country = ''
     query_country = simpledialog.askstring('Country', 'Type the name of a country: ')
     query_country = query_country.capitalize()
-
     if query_country in world_capital:
         result = world_capital[query_country]
         messagebox.showinfo('Answer','The capital city of ' + query_country + ' is ' + result + '!')
