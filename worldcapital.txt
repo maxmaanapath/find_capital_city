@@ -7,3 +7,4 @@ Malaysia/Kuala Lumpur
 Spain/Madrid
 Maldives/Malé
 Mexico/Mexico City
+Russia/Moscow
