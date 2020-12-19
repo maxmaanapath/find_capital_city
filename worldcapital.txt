@@ -9,3 +9,4 @@ Maldives/Malé
 Mexico/Mexico City
 Russia/Moscow
 Oman/Muscat
+Myanmar/Naypyidaw
