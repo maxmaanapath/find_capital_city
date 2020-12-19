@@ -3,3 +3,4 @@ UK/London
 Japan/Tokyo
 China/Beijing
 Vietnam/Hanoi
+Malaysia/Kuala Lumpur
