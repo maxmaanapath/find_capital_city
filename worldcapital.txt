@@ -10,3 +10,4 @@ Mexico/Mexico City
 Russia/Moscow
 Oman/Muscat
 Myanmar/Naypyidaw
+India/New Delhi
