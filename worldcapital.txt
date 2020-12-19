@@ -11,3 +11,4 @@ Russia/Moscow
 Oman/Muscat
 Myanmar/Naypyidaw
 India/New Delhi
+Norway/Oslo
