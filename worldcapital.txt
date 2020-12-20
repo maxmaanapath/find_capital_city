@@ -2,6 +2,7 @@ Afghanistan/Kabul
 Albania/Tirana(Tirane)
 Algeria/Algiers
 Andorra/Andorra la Vella
+Angola
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
