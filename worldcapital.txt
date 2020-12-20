@@ -1,4 +1,5 @@
 Afghanistan/Kabul
+Albania
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
