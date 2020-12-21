@@ -5,7 +5,6 @@ Andorra/Andorra la Vella
 Angola/Luanda
 Antigua and Barbuda/Saint John's
 Argentina/Buenos Aires
-Armenia/Yerevan
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
