@@ -6,6 +6,7 @@ Angola/Luanda
 Antigua and Barbuda/Saint John's
 Argentina/Buenos Aires
 Armenia/Yerevan
+Australia
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
