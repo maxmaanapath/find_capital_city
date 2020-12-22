@@ -11,7 +11,7 @@ Azerbaijan/Baku
 Bahamas/Nassau
 Bahrain/Manama
 Bangladesh/Dhaka
-Barbados
+Barbados/Bridgetown
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
