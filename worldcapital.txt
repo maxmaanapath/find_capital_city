@@ -8,7 +8,7 @@ Argentina/Buenos Aires
 Armenia/Yerevan
 Australia/Canberra
 Azerbaijan/Baku
-Bahamas
+Bahamas/Nassau
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
