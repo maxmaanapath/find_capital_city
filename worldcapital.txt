@@ -13,6 +13,7 @@ Bahrain/Manama
 Bangladesh/Dhaka
 Barbados/Bridgetown
 Belarus/Minsk
+Belgium
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
