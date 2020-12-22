@@ -12,6 +12,7 @@ Bahamas/Nassau
 Bahrain/Manama
 Bangladesh/Dhaka
 Barbados/Bridgetown
+Belarus
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
