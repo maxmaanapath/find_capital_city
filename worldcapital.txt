@@ -10,7 +10,7 @@ Australia/Canberra
 Azerbaijan/Baku
 Bahamas/Nassau
 Bahrain/Manama
-Bangladesh
+Bangladesh/Dhaka
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
