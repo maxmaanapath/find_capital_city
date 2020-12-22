@@ -9,6 +9,7 @@ Armenia/Yerevan
 Australia/Canberra
 Azerbaijan/Baku
 Bahamas/Nassau
+Bahrain
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
