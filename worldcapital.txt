@@ -17,6 +17,7 @@ Belgium/Brussels
 Belize/Belmopan
 Benin/Porto Novo
 Bhutan/Thimphu
+Bolivia
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
