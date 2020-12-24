@@ -16,7 +16,7 @@ Belarus/Minsk
 Belgium/Brussels
 Belize/Belmopan
 Benin/Porto Novo
-Bhutan
+Bhutan/Thimphu
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
