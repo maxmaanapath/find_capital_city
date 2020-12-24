@@ -14,7 +14,7 @@ Bangladesh/Dhaka
 Barbados/Bridgetown
 Belarus/Minsk
 Belgium/Brussels
-Belize
+Belize/Belmopan
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
