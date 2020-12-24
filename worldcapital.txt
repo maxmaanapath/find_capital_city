@@ -15,7 +15,7 @@ Barbados/Bridgetown
 Belarus/Minsk
 Belgium/Brussels
 Belize/Belmopan
-Benin
+Benin/Porto Novo
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
