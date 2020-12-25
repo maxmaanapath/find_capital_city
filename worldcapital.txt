@@ -19,7 +19,7 @@ Benin/Porto Novo
 Bhutan/Thimphu
 Bolivia/Sucre
 Bosnia/Sarajevo
-Herzegovina
+Herzegovina/Sarajevo
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
