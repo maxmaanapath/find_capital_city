@@ -20,7 +20,7 @@ Bhutan/Thimphu
 Bolivia/Sucre
 Bosnia/Sarajevo
 Herzegovina/Sarajevo
-Botswana
+Botswana/Gaborone
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
