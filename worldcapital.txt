@@ -21,7 +21,7 @@ Bolivia/Sucre
 Bosnia/Sarajevo
 Herzegovina/Sarajevo
 Botswana/Gaborone
-Brazil
+Brazil/Brasilia
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
