@@ -18,7 +18,8 @@ Belize/Belmopan
 Benin/Porto Novo
 Bhutan/Thimphu
 Bolivia/Sucre
-Bosnia
+Bosnia/Sarajevo
+
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
