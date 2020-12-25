@@ -22,7 +22,8 @@ Bosnia/Sarajevo
 Herzegovina/Sarajevo
 Botswana/Gaborone
 Brazil/Brasilia
-Brunei
+Brunei/Bandar Seri Begawan
+
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
