@@ -26,7 +26,8 @@ Brunei/Bandar Seri Begawan
 Bulgaria/Sofia
 Burkina Faso/Ouagadougou
 Burundi/Gitega
-Cambodia
+Cambodia/Phnom Penh
+
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
