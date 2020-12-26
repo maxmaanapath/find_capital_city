@@ -24,6 +24,7 @@ Botswana/Gaborone
 Brazil/Brasilia
 Brunei/Bandar Seri Begawan
 Bulgaria/Sofia
+Burkina Faso
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
