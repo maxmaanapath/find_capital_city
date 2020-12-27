@@ -31,6 +31,7 @@ Cameroon/Yaounde
 Canada/Ottawa
 Cape Verde/Praia
 Central African Republic/Bangui
+Chad
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
