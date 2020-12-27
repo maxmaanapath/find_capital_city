@@ -36,7 +36,7 @@ Chile/Santiago
 China/Beijing
 Colombia/Bogota
 Comoros/Moroni
-Congo
+Congo/Kinshasa
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
