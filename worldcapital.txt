@@ -30,6 +30,7 @@ Cambodia/Phnom Penh
 Cameroon/Yaounde
 Canada/Ottawa
 Cape Verde/Praia
+Central African Republic
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
