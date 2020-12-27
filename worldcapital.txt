@@ -37,6 +37,7 @@ China/Beijing
 Colombia/Bogota
 Comoros/Moroni
 Congo/Kinshasa
+Costa Rica
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
