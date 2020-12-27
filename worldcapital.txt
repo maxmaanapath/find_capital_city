@@ -33,7 +33,7 @@ Cape Verde/Praia
 Central African Republic/Bangui
 Chad/N'Djamena
 Chile/Santiago
-China
+China/Beijing
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
