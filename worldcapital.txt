@@ -28,7 +28,7 @@ Burkina Faso/Ouagadougou
 Burundi/Gitega
 Cambodia/Phnom Penh
 Cameroon/Yaounde
-Canada
+Canada/Ottawa
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
