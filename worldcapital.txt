@@ -32,7 +32,7 @@ Canada/Ottawa
 Cape Verde/Praia
 Central African Republic/Bangui
 Chad/N'Djamena
-Chile
+Chile/Santiago
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
