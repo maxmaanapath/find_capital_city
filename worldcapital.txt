@@ -35,6 +35,7 @@ Chad/N'Djamena
 Chile/Santiago
 China/Beijing
 Colombia/Bogota
+Comoros
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
