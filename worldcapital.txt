@@ -38,6 +38,7 @@ Colombia/Bogota
 Comoros/Moroni
 Congo/Kinshasa
 Costa Rica/San Jose
+Côte d'Ivoire
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
