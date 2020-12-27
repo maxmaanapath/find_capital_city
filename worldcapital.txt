@@ -29,6 +29,7 @@ Burundi/Gitega
 Cambodia/Phnom Penh
 Cameroon/Yaounde
 Canada/Ottawa
+Cape Verde
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
