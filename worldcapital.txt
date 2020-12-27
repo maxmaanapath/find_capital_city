@@ -34,6 +34,7 @@ Central African Republic/Bangui
 Chad/N'Djamena
 Chile/Santiago
 China/Beijing
+Colombia
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
