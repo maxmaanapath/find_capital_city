@@ -41,7 +41,7 @@ Costa Rica/San Jose
 Côte d'Ivoire/Yamoussoukro
 Croatia/Zagreb
 Cuba/Havana
-Cyprus
+Cyprus/Nicosia
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
