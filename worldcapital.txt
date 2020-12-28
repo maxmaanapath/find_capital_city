@@ -42,7 +42,7 @@ Côte d'Ivoire/Yamoussoukro
 Croatia/Zagreb
 Cuba/Havana
 Cyprus/Nicosia
-Czechia
+Czechia/Prague
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
