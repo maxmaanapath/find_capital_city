@@ -39,7 +39,7 @@ Comoros/Moroni
 Congo/Kinshasa
 Costa Rica/San Jose
 Côte d'Ivoire/Yamoussoukro
-Croatia
+Croatia/Zagreb
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
