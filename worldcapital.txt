@@ -43,6 +43,7 @@ Croatia/Zagreb
 Cuba/Havana
 Cyprus/Nicosia
 Czechia/Prague
+Denmark
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
