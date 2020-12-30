@@ -47,7 +47,7 @@ Denmark/Copenhagen
 Djibouti/Djibouti
 Dominica/Roseau
 Dominican Republic/Santo Domingo
-
+East Timor	
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
