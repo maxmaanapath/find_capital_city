@@ -44,7 +44,8 @@ Cuba/Havana
 Cyprus/Nicosia
 Czechia/Prague
 Denmark/Copenhagen
-Djibouti
+Djibouti/Djibouti
+
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
