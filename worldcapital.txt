@@ -46,6 +46,7 @@ Czechia/Prague
 Denmark/Copenhagen
 Djibouti/Djibouti
 Dominica/Roseau
+Dominican Republic
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
