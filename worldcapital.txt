@@ -45,7 +45,7 @@ Cyprus/Nicosia
 Czechia/Prague
 Denmark/Copenhagen
 Djibouti/Djibouti
-Dominica
+Dominica/Roseau
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
