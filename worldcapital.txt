@@ -51,7 +51,8 @@ East Timor/Dili
 Ecuador/Quito
 Egypt/Cairo
 El Salvador/San Salvador
-England
+England/London
+
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
