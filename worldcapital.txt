@@ -49,6 +49,7 @@ Dominica/Roseau
 Dominican Republic/Santo Domingo
 East Timor/Dili
 Ecuador/Quito
+Egypt
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
