@@ -48,7 +48,7 @@ Djibouti/Djibouti
 Dominica/Roseau
 Dominican Republic/Santo Domingo
 East Timor/Dili
-Ecuador
+Ecuador/Quito
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
