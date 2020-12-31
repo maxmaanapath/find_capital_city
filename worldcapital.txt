@@ -49,7 +49,7 @@ Dominica/Roseau
 Dominican Republic/Santo Domingo
 East Timor/Dili
 Ecuador/Quito
-Egypt
+Egypt/Cairo
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
