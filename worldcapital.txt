@@ -52,7 +52,8 @@ Ecuador/Quito
 Egypt/Cairo
 El Salvador/San Salvador
 England/London
-Equatorial Guinea
+Equatorial Guinea/Malabo
+
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
