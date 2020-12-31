@@ -50,6 +50,7 @@ Dominican Republic/Santo Domingo
 East Timor/Dili
 Ecuador/Quito
 Egypt/Cairo
+El Salvador
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
