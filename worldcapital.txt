@@ -56,6 +56,7 @@ Equatorial Guinea/Malabo
 Eritrea/Asmara
 Estonia/Tallinn
 Eswatini/Mbabana
+Ethiopia
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
