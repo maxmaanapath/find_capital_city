@@ -58,6 +58,7 @@ Estonia/Tallinn
 Eswatini/Mbabana
 Ethiopia/Addis Ababa
 Federated States of Micronesia/Palikir
+Fiji
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
