@@ -57,7 +57,7 @@ Eritrea/Asmara
 Estonia/Tallinn
 Eswatini/Mbabana
 Ethiopia/Addis Ababa
-Federated States of Micronesia
+Federated States of Micronesia/Palikir
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
