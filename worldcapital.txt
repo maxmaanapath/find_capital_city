@@ -60,6 +60,7 @@ Ethiopia/Addis Ababa
 Federated States of Micronesia/Palikir
 Fiji/Suva
 Finland/Helsinki
+France
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
