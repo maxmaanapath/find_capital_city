@@ -54,7 +54,7 @@ El Salvador/San Salvador
 England/London
 Equatorial Guinea/Malabo
 Eritrea/Asmara
-Estonia
+Estonia/Tallinn
 Thailand/Bangkok
 UK/London
 Japan/Tokyo
