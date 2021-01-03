@@ -62,7 +62,7 @@ Fiji/Suva
 Finland/Helsinki
 France/Paris
 Gabon/Libreville
-Gambia
+Gambia/Banjul
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
