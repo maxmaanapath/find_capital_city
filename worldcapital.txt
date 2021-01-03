@@ -65,6 +65,7 @@ Gabon/Libreville
 Gambia/Banjul
 Georgia/Tbilisi
 Germany/Berlin
+Ghana
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
