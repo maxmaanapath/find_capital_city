@@ -66,6 +66,7 @@ Gambia/Banjul
 Georgia/Tbilisi
 Germany/Berlin
 Ghana/Accra
+Greece
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
