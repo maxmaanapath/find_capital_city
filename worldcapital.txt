@@ -63,7 +63,7 @@ Finland/Helsinki
 France/Paris
 Gabon/Libreville
 Gambia/Banjul
-Georgia
+Georgia/Tbilisi
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
