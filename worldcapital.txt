@@ -70,7 +70,7 @@ Greece/Athens
 Grenada/Saint George's
 Guatemala/Guatemala City
 Guinea/Conakry
-Guinea-Bissau
+Guinea-Bissau/Bissau
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
