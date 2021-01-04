@@ -69,7 +69,8 @@ Ghana/Accra
 Greece/Athens
 Grenada/Saint George's
 Guatemala/Guatemala City
-Guinea
+Guinea/Conakry
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
