@@ -68,7 +68,8 @@ Germany/Berlin
 Ghana/Accra
 Greece/Athens
 Grenada/Saint George's
-Guatemala
+Guatemala/Guatemala City
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
