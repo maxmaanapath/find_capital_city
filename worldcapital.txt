@@ -71,7 +71,8 @@ Grenada/Saint George's
 Guatemala/Guatemala City
 Guinea/Conakry
 Guinea-Bissau/Bissau
-Guyana
+Guyana/Georgetown
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
