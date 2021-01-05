@@ -74,6 +74,7 @@ Guinea-Bissau/Bissau
 Guyana/Georgetown
 Haiti/Port au Prince
 Honduras/Tegucigalpa
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
