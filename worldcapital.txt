@@ -75,7 +75,7 @@ Guyana/Georgetown
 Haiti/Port au Prince
 Honduras/Tegucigalpa
 Hungary/Budapest
-Iceland
+Iceland/Reykjavik
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
