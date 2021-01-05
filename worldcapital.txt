@@ -76,6 +76,7 @@ Haiti/Port au Prince
 Honduras/Tegucigalpa
 Hungary/Budapest
 Iceland/Reykjavik
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
