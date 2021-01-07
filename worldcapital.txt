@@ -89,5 +89,5 @@ Mexico/Mexico City
 Russia/Moscow
 Oman/Muscat
 Myanmar/Naypyidaw
-India/New Delhi
+India
 Norway/Oslo
