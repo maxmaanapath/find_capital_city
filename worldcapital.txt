@@ -81,7 +81,7 @@ Indonesia/Jakarta
 Iran/Tehran
 Iraq/Baghdad
 Ireland/Dublin
-Israel
+Israel/Jerusalem
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
