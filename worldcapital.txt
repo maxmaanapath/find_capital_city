@@ -78,7 +78,7 @@ Hungary/Budapest
 Iceland/Reykjavik
 India/New Delhi
 Indonesia/Jakarta
-Iran
+Iran/Tehran
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
