@@ -79,9 +79,12 @@ Iceland/Reykjavik
 India/New Delhi
 Indonesia/Jakarta
 Iran/Tehran
+<<<<<<< Updated upstream
 Iraq/Baghdad
 Ireland/Dublin
 Israel/Jerusalem
+=======
+>>>>>>> Stashed changes
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
