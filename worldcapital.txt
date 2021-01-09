@@ -83,7 +83,7 @@ Iraq/Baghdad
 Ireland/Dublin
 Israel/Jerusalem
 Italy/Rome
-Jamaica
+Jamaica/Kingston
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
