@@ -89,7 +89,7 @@ Japan/Tokyo
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
-Japan/Tokyo
+Japan
 Vietnam/Hanoi
 Malaysia/Kuala Lumpur
 Spain/Madrid
