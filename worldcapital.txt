@@ -84,7 +84,7 @@ Ireland/Dublin
 Israel/Jerusalem
 Italy/Rome
 Jamaica/Kingston
-Japan
+Japan/Tokyo
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
