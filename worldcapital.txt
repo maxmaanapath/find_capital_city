@@ -86,7 +86,7 @@ Italy/Rome
 Jamaica/Kingston
 Japan/Tokyo
 Jordan/Amman
-Kazakhstan
+Kazakhstan/Nur-Sultan
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
