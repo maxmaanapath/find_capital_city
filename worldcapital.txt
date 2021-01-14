@@ -82,20 +82,11 @@ Iran/Tehran
 Iraq/Baghdad
 Ireland/Dublin
 Israel/Jerusalem
-<<<<<<< HEAD
-
-=======
-Italy/Rome
-Jamaica/Kingston
-Japan/Tokyo
-Jordan/Amman
-Kazakhstan/Nur-Sultan
-Kenya/Nairobi
-Kiribati/Tarawa Atoll
->>>>>>> 4542cafe99e2a227f628336ab81658b7410790cf
+Italy
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
+Japan/Tokyo
 Vietnam/Hanoi
 Malaysia/Kuala Lumpur
 Spain/Madrid
