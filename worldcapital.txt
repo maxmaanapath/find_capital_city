@@ -85,7 +85,6 @@ Israel/Jerusalem
 Italy/Rome
 Jamaica/Kingston
 Japan/Tokyo
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
