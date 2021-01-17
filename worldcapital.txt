@@ -87,7 +87,6 @@ Jamaica/Kingston
 Japan/Tokyo
 Jordan/Amman
 Kazakhstan/Nur-Sultan
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
