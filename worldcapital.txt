@@ -89,7 +89,6 @@ Jordan/Amman
 Kazakhstan/Nur-Sultan
 Kenya/Nairobi
 Kiribati/Tarawa Atoll
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
