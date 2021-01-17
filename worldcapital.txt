@@ -88,7 +88,7 @@ Japan/Tokyo
 Jordan/Amman
 Kazakhstan/Nur-Sultan
 Kenya/Nairobi
-Kiribati/Tarawa Atoll
+Kiribati
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
