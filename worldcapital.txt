@@ -88,6 +88,7 @@ Japan/Tokyo
 Jordan/Amman
 Kazakhstan/Nur-Sultan
 Kenya/Nairobi
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
