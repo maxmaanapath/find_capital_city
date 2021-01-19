@@ -89,7 +89,10 @@ Jordan/Amman
 Kazakhstan/Nur-Sultan
 Kenya/Nairobi
 Kiribati/Tarawa Atoll
+<<<<<<< HEAD
 Kosovo/Pristina
+=======
+>>>>>>> 3179f115e369a34bca51967851b3a2cc813e6b9d
 
 Swaziland/Mbabana
 Thailand/Bangkok
