@@ -92,7 +92,7 @@ Kiribati/Tarawa Atoll
 <<<<<<< HEAD
 Kosovo/Pristina
 =======
->>>>>>>
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
