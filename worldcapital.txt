@@ -89,6 +89,7 @@ Jordan/Amman
 Kazakhstan/Nur-Sultan
 Kenya/Nairobi
 Kiribati/Tarawa Atoll
+
 Kosovo/Pristina
 Swaziland/Mbabana
 Thailand/Bangkok
