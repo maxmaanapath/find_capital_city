@@ -90,7 +90,7 @@ Kazakhstan/Nur-Sultan
 Kenya/Nairobi
 Kiribati/Tarawa Atoll
 Kosovo/Pristina
-Kuwait
+Kuwait/Kuwait City
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
