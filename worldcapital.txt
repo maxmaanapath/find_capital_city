@@ -91,6 +91,7 @@ Kenya/Nairobi
 Kiribati/Tarawa Atoll
 Kosovo/Pristina
 Kuwait/Kuwait City
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
