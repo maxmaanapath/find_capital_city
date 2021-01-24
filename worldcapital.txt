@@ -93,6 +93,7 @@ Kosovo/Pristina
 Kuwait/Kuwait City
 Kyrgyzstan/Bishkek
 Laos/Vientiane
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
