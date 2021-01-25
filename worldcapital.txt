@@ -95,6 +95,7 @@ Kyrgyzstan/Bishkek
 Laos/Vientiane
 Latvia/Riga
 Lebanon/Beirut
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
