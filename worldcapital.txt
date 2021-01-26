@@ -97,7 +97,6 @@ Latvia/Riga
 Lebanon/Beirut
 Lesotho/Maseru
 Liberia/Monrovia
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
