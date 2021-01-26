@@ -95,7 +95,7 @@ Kyrgyzstan/Bishkek
 Laos/Vientiane
 Latvia/Riga
 Lebanon/Beirut
-Lesotho/
+Lesotho/Maseru
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
