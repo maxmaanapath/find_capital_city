@@ -96,7 +96,7 @@ Laos/Vientiane
 Latvia/Riga
 Lebanon/Beirut
 Lesotho/Maseru
-Liberia
+Liberia/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
