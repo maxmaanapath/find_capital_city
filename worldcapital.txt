@@ -100,7 +100,7 @@ Liberia/Monrovia
 Libya/Tripoli
 Liechtenstein/Vaduz
 Lithuania/Vilnius
-Luxembourg
+Luxembourg/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
