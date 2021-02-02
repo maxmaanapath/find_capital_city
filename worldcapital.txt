@@ -101,7 +101,7 @@ Libya/Tripoli
 Liechtenstein/Vaduz
 Lithuania/Vilnius
 Luxembourg/Luxembourg
-
+Madagascar
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
