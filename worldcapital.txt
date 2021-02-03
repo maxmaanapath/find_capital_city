@@ -102,7 +102,7 @@ Liechtenstein/Vaduz
 Lithuania/Vilnius
 Luxembourg/Luxembourg
 Madagascar/Antananarivo
-Malawi
+Malawi/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
