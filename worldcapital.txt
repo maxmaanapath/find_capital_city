@@ -103,7 +103,7 @@ Lithuania/Vilnius
 Luxembourg/Luxembourg
 Madagascar/Antananarivo
 Malawi/Lilongwe
-Malaysia
+Malaysia/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
