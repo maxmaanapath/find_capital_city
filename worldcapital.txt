@@ -109,7 +109,6 @@ Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
 Vietnam/Hanoi
-
 Spain/Madrid
 Maldives/Malé
 Mexico/Mexico City
