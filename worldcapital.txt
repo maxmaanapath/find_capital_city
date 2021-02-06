@@ -104,7 +104,7 @@ Luxembourg/Luxembourg
 Madagascar/Antananarivo
 Malawi/Lilongwe
 Malaysia/Kuala Lumpur
-Maldives
+Maldives/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
