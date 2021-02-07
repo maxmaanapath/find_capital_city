@@ -106,6 +106,7 @@ Malawi/Lilongwe
 Malaysia/Kuala Lumpur
 Maldives/Male
 Mali/Bamako
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
