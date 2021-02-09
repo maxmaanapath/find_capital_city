@@ -109,7 +109,6 @@ Mali/Bamako
 Malta/Valletta
 Marshall Islands/Majuro
 
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
