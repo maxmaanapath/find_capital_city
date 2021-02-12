@@ -109,7 +109,7 @@ Mali/Bamako
 Malta/Valletta
 Marshall Islands/Majuro
 Mauritania/Nouakchott
-Mauritius
+Mauritius/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
