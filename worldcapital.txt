@@ -120,7 +120,7 @@ UK/London
 Vietnam/Hanoi
 Spain/Madrid
 Maldives/Malé
-Mexico/
+Mexico
 Russia/Moscow
 Oman/Muscat
 Myanmar/Naypyidaw
