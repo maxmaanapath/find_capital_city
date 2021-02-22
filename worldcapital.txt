@@ -112,7 +112,6 @@ Mauritania/Nouakchott
 Mauritius/Port Louis
 Mexico/Mexico City
 Moldova/Chisinau
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
