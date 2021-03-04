@@ -116,7 +116,6 @@ Monaco/Monaco
 Mongolia/Ulaanbaatar
 Montenegro/Podgorica
 Morocco/Rabat
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
