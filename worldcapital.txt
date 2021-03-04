@@ -115,7 +115,7 @@ Moldova/Chisinau
 Monaco/Monaco
 Mongolia/Ulaanbaatar
 Montenegro/Podgorica
-Morocco
+Morocco/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
