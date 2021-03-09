@@ -117,7 +117,7 @@ Mongolia/Ulaanbaatar
 Montenegro/Podgorica
 Morocco/Rabat
 Mozambique/Maputo
-Myanmar/Nay Pyi Taw
+Myanmar/NayPyiTaw
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
