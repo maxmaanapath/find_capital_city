@@ -126,5 +126,5 @@ Spain/Madrid
 Maldives/Malé
 Russia/Moscow
 Oman/Muscat
-Myanmar/Naypyidaw
+Myanmar/
 Norway/Oslo
