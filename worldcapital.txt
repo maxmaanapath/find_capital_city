@@ -25,7 +25,7 @@ Brazil/Brasilia
 Brunei/Bandar Seri Begawan
 Bulgaria/Sofia
 Burkina Faso/Ouagadougou
-Burma/
+Burma/NayPyiTaw
 Burundi/Gitega
 Cambodia/Phnom Penh
 Cameroon/Yaounde
