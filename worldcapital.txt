@@ -119,7 +119,6 @@ Montenegro/Podgorica
 Morocco/Rabat
 Mozambique/Maputo
 Myanmar/NayPyiTaw
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
