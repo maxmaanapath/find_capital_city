@@ -122,7 +122,6 @@ Myanmar/NayPyiTaw
 Namibia/Windhoek
 Nauru/No official capital
 Nepal/Kathmandu
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
