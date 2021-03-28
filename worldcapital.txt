@@ -123,7 +123,7 @@ Namibia/Windhoek
 Nauru/No official capital
 Nepal/Kathmandu
 Netherlands/Amsterdam
-NewZealand
+Newzealand
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
