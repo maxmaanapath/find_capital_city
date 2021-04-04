@@ -126,7 +126,7 @@ Netherlands/Amsterdam
 Newzealand/Wellington
 Nicaragua/Managua
 Niger/Niamey
-Nigeria/
+Nigeria/Abuja
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
