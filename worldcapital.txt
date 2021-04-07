@@ -128,6 +128,7 @@ Nicaragua/Managua
 Niger/Niamey
 Nigeria/Abuja
 North Korea/Pyongyang
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
