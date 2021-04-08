@@ -128,7 +128,7 @@ Nicaragua/Managua
 Niger/Niamey
 Nigeria/Abuja
 North Korea/Pyongyang
-North Macedonia
+North Macedonia/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
