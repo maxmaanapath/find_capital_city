@@ -130,7 +130,7 @@ Niger/Niamey
 Nigeria/Abuja
 North Korea/Pyongyang
 North Macedonia/Skopje
-Northern Ireland/
+Northern Ireland/Belfast
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
