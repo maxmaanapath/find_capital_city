@@ -135,7 +135,6 @@ Norway/Oslo
 Oman/Muscat
 Pakistan/Islamabad
 Palau/Melekeok
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
