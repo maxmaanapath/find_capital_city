@@ -137,6 +137,7 @@ Pakistan/Islamabad
 Palau/Melekeok
 Panama/Panama City
 Papua New Guinea/Port Moresby
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
