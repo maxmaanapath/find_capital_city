@@ -139,6 +139,7 @@ Panama/Panama City
 Papua New Guinea/Port Moresby
 Paraguay/Asuncion
 Peru/Lima
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
