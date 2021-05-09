@@ -140,7 +140,7 @@ Papua New Guinea/Port Moresby
 Paraguay/Asuncion
 Peru/Lima
 Philippines/Manila
-Poland
+Poland/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
