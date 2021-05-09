@@ -141,7 +141,7 @@ Paraguay/Asuncion
 Peru/Lima
 Philippines/Manila
 Poland/Warsaw
-
+Portugal
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
