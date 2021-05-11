@@ -142,7 +142,6 @@ Peru/Lima
 Philippines/Manila
 Poland/Warsaw
 Portugal/Lisbon
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
