@@ -142,7 +142,7 @@ Peru/Lima
 Philippines/Manila
 Poland/Warsaw
 Portugal/Lisbon
-Qatar
+Qatar/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
