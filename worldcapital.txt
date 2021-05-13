@@ -145,7 +145,6 @@ Portugal/Lisbon
 Qatar/Doha
 Romania/Bucharest
 Russia/Moscow
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
