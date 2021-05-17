@@ -146,6 +146,7 @@ Qatar/Doha
 Romania/Bucharest
 Russia/Moscow
 Rwanda/Kigali
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
