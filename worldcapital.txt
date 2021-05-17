@@ -152,6 +152,5 @@ UK/London
 Vietnam/Hanoi
 Spain/Madrid
 Maldives/Malé
-
 Oman/Muscat
 Norway/Oslo
