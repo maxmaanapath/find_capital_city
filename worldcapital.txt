@@ -146,7 +146,7 @@ Qatar/Doha
 Romania/Bucharest
 Russia/Moscow
 Rwanda/Kigali
-Saint Kitts and Nevis
+Saint Kitts and Nevis/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
