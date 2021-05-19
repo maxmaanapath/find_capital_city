@@ -147,7 +147,6 @@ Romania/Bucharest
 Russia/Moscow
 Rwanda/Kigali
 Saint Kitts and Nevis/Basseterre
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
