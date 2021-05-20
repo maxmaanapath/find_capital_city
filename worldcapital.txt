@@ -69,6 +69,7 @@ Germany/Berlin
 Ghana/Accra
 Greece/Athens
 Grenada/Saint George's
+
 Guatemala/Guatemala City
 Guinea/Conakry
 Guinea-Bissau/Bissau
