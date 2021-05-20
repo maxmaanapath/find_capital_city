@@ -148,7 +148,7 @@ Russia/Moscow
 Rwanda/Kigali
 Saint Kitts and Nevis/Basseterre
 Saint Lucia/Castries
-Saint Vincent and the Grenadines
+Saint Vincent and the Grenadines/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
