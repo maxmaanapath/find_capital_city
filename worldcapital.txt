@@ -149,6 +149,7 @@ Rwanda/Kigali
 Saint Kitts and Nevis/Basseterre
 Saint Lucia/Castries
 Saint Vincent and the Grenadines/Kingstown
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
