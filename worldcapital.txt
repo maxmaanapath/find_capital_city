@@ -148,7 +148,6 @@ Russia/Moscow
 Rwanda/Kigali
 Saint Kitts and Nevis/Basseterre
 Saint Lucia/Castries
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
