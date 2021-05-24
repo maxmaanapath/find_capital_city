@@ -152,6 +152,7 @@ Saint Lucia/Castries
 Saint Vincent/Kingstown
 Samoa/Apia
 San Marino/San Marino
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
