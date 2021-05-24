@@ -144,7 +144,6 @@ Philippines/Manila
 Poland/Warsaw
 Portugal/Lisbon
 Principe/Sao Tome
-
 Qatar/Doha
 Romania/Bucharest
 Russia/Moscow
