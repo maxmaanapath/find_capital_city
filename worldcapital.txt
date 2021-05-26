@@ -155,7 +155,6 @@ Samoa/Apia
 San Marino/San Marino
 Sao Tome/Sao Tome
 Saudi Arabia/Riyadh
-
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
