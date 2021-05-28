@@ -156,6 +156,7 @@ San Marino/San Marino
 Sao Tome/Sao Tome
 Saudi Arabia/Riyadh
 Scotland/Edinburgh
+
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
