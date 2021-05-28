@@ -146,7 +146,7 @@ Portugal/Lisbon
 Principe/Sao Tome
 Qatar/Doha
 Romania/Bucharest
-Russia/Moscow
+Russia/Moscow/
 Rwanda/Kigali
 Saint Kitts and Nevis/Basseterre
 Saint Lucia/Castries
@@ -155,7 +155,7 @@ Samoa/Apia
 San Marino/San Marino
 Sao Tome/Sao Tome
 Saudi Arabia/Riyadh
-Scotland
+Scotland/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
