@@ -160,7 +160,7 @@ Senegal/Dakar
 Serbia/Belgrade
 Seychelles/Victoria
 Sierra Leone/Freetown
-Singapore
+Singapore/
 Swaziland/Mbabana
 Thailand/Bangkok
 UK/London
