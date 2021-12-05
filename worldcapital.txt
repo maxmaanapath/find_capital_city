@@ -25,7 +25,7 @@ Brazil/Brasilia
 Brunei/Bandar Seri Begawan
 Bulgaria/Sofia
 Burkina Faso/Ouagadougou
-Burma/NayPyiTaw
+Burma/Nay Pyi Taw
 Burundi/Gitega
 Cambodia/Phnom Penh
 Cameroon/Yaounde
@@ -56,7 +56,7 @@ England/London
 Equatorial Guinea/Malabo
 Eritrea/Asmara
 Estonia/Tallinn
-Eswatini/Mbabana
+Eswatini/Mbabane
 Ethiopia/Addis Ababa
 Federated States of Micronesia/Palikir
 Fiji/Suva
@@ -120,12 +120,12 @@ Mongolia/Ulaanbaatar
 Montenegro/Podgorica
 Morocco/Rabat
 Mozambique/Maputo
-Myanmar/NayPyiTaw
+Myanmar/Nay Pyi Taw
 Namibia/Windhoek
 Nauru/No official capital
 Nepal/Kathmandu
 Netherlands/Amsterdam
-Newzealand/Wellington
+New Zealand/Wellington
 Nicaragua/Managua
 Niger/Niamey
 Nigeria/Abuja
@@ -164,11 +164,41 @@ Singapore/Singapore
 Slovakia/Bratislava
 Slovenia/Ljubljana
 Solomon Islands/Honiara
-Swaziland/Mbabana
-Thailand/Bangkok
-UK/London
-Vietnam/Hanoi
+Somalia/Mogadishu
+South Africa/Pretoria, Bloemfontein, Cape Town
+South Korea/Seoul
+South Sudan/Juba
 Spain/Madrid
-Maldives/Malé
-Oman/Muscat
-Norway/Oslo
+Sri Lanka/Colombo
+Sudan/Khartoum
+Suriname/Paramaribo
+Swaziland/Mbabana
+Sweden/Stockholm
+Switzerland/Bern 
+Syria/Damascus
+Taiwan/Taipei
+Tajikistan/Dushanbe
+Tanzania/Dodoma
+Thailand/Bangkok
+Togo/Lome
+Tonga/Nuku'alofa
+Trinidad and Tobago/Port of Spain
+Tunisia/Tunis
+Turkey/Ankara
+Turkmenistan/Ashgabat
+Tuvalu/Funafuti
+Uganda/Kampala
+Ukraine/Kiev
+United Arab Emirates/Abu Dhabi
+United Kingdom/London
+United States/Washington D.C.
+Uruguay/Montevideo
+Uzbekistan/Tashkent
+Vanuatu/Port Vila
+Vatican City/Vatican City
+Venezuela/Caracas
+Vietnam/Hanoi
+Wales/Cardiff
+Yemen/Sana'a
+Zambia/Lusaka
+Zimbabwe/Harare
