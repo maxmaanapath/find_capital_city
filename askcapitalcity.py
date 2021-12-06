@@ -2,7 +2,7 @@ import sys
 from tkinter import Tk, simpledialog, messagebox
 
 def read_from_file():
-    with open('worldcapital.txt', 'r') as file:
+    with open('worldcapital_test.txt', 'r') as file:
         for line in file:
             line = line.rstrip('\n')
             country, capital = line.split('/')
@@ -11,7 +11,7 @@ def read_from_file():
             world_capital[country] = capital
 
 def write_to_file(country_name, capital_name):
-    with open('worldcapital.txt', 'a') as file:
+    with open('worldcapital_test.txt', 'a') as file:
         file.write('\n')
         file.write(country_name + '/' + capital_name)
         file.close()
