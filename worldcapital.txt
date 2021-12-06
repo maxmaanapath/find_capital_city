@@ -165,7 +165,7 @@ Slovakia/Bratislava
 Slovenia/Ljubljana
 Solomon Islands/Honiara
 Somalia/Mogadishu
-South Africa/Pretoria, Bloemfontein, Cape Town
+South Africa/Pretoria
 South Korea/Seoul
 South Sudan/Juba
 Spain/Madrid
