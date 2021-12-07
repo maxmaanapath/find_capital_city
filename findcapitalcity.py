@@ -19,6 +19,7 @@ def write_to_file(country_name, capital_name):
         file.close()
 
 root = Tk()
+root.title("Find Capital City")
 root.withdraw()
 world_capital = {}
 
@@ -38,7 +39,7 @@ while True:
         new_capital = new_capital.capitalize()
         write_to_file(query_country, new_capital)
 
-    answer = simpledialog.askstring('Continue', 'Do you want to try again? y/n: ')
+    answer = simpledialog.askstring('Continue', 'Do you want to try again? Yes(y) / No(n): ')
 
     if answer == 'n':
         messagebox.showinfo('Thanks','Thank you for playing!')
