@@ -1,4 +1,4 @@
-# Ask-Capital-Program
+# Find_capital_city
 - This is program for providing information about the capital name of countries in the world.
 
 Function in this program:
