@@ -1,3 +1,6 @@
 Brazil/Brasilia
 China/Beijing
 Thailand/Bangkok
+Germany/Berlin
+Italy/Rome
+Oman/Muscat
